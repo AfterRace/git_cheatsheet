@@ -9,4 +9,4 @@ My Git Cheatsheet
 | 'git reset HEAD <file>'      | Unstage <file>  |
 | 'git checkout -- <file>'     | Unmodify <file> |
 | 'git restore --staged <file> | Unstage <file>  |
-| 'git restore <file>          | Unmodify <file> |
+| ‘git restore <file>‘          | Unmodify <file> |
